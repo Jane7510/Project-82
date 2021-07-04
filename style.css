@@ -1,0 +1,18 @@
+body{
+    background: rgb(255,170,204);
+background: linear-gradient(90deg, rgba(255,170,204,1) 25%, rgba(204,170,255,1) 61%);
+text-align: center;
+}
+
+#myCanvas{
+    border: ridge;
+    background-color: white;
+}
+
+.C_A{
+    background-color: darkblue;
+    color: white;
+    font-family: cursive;
+    border: none;
+    border-radius: 5px;
+}
